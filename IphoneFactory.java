@@ -25,7 +25,7 @@ public class IphoneFactory {
             break;
 
         }
-
+scanner.close();
       
 
     }
